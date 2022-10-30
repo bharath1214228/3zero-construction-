@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+britannica.com	TRUE	/	FALSE	1999999999	bcomID	2633318147667684718
+britannica.com	TRUE	/	FALSE	1999999999	SessionAuth	MqcSAZv5LuHSmztTOnFBEChIVJPeegPm1wXGW0IiNmwaRwMV6GyeOpu03wc/ud/T
+www.britannica.com	TRUE	/	FALSE	1999999999	JSESSIONID	C0AF5D01A33AAEC19CD3ABDC4FD31013
+britannica.com	TRUE	/	FALSE	1999999999	subreturn	https%3A%2F%2Fwww.britannica.com%2Ftechnology%2Ftholos-architecture%2Fadditional-info
+britannica.com	TRUE	/	FALSE	1999999999	referer	http%3A%2F%2Fwww.britannica.com%2Ftechnology%2Ftholos-architecture
+britannica.com	TRUE	/	FALSE	1999999999	webstats	referer_page=https%3A%2F%2Fwww.britannica.com%2Ftechnology%2Ftholos-architecture%2Fadditional-info"
+britannica.com	TRUE	/	FALSE	1999999999	__mendel	%7B%27pagesViewed%27%3A355%2C%27surveyShown%27%3Atrue%2C%27topicInitialSequence%27%3A1%7D
+
